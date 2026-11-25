@@ -13,17 +13,32 @@
 [![ORBilu](https://img.shields.io/badge/ORBilu-University_of_Luxembourg-blue)](https://orbilu.uni.lu/profile?uid=50056146)
 
 
+
 ## 👨‍💻 About Me
 
-I am a Computer Science researcher and engineer working at the intersection of Artificial Intelligence, Software Engineering, Data Science and Cybersecurity.
+I am a Computer Science Engineer, Research Engineer and Researcher working at the intersection of Artificial Intelligence, Software Engineering, Data Science and Cybersecurity.
 
-I hold a PhD in Computer Science from the University of Luxembourg, where I conducted doctoral and postdoctoral research within the Trustworthy Software Engineering (TruX) Research Group at the Interdisciplinary Centre for Security, Reliability and Trust (SnT).
+My academic background combines two engineering degrees in Computer Science, with specializations in Computer Networks and IT Maintenance, and Software Analysis and Programming, obtained at the École Supérieure d'Informatique (ESI), Université Nazi BONI, Burkina Faso.
+
+This engineering background provides me with a broad foundation in software design and development, computer systems, networking, cloud computing, IT infrastructure, databases and cybersecurity.
+
+I hold a PhD in Computer Science from the University of Luxembourg, where I conducted doctoral and postdoctoral research within the TruX Research Group at the Interdisciplinary Centre for Security, Reliability and Trust (SnT).
 
 My doctoral research was funded by the Luxembourg National Research Fund (FNR) through the AFR Bilateral project [BURGEON](https://www.uni.lu/snt-en/research-projects/burgeon/), in collaboration with Singapore Management University (SMU).
 
 My work combines applied research, AI engineering, software development, experimental evaluation and the development of reproducible research tools.
 
-My professional background also includes cloud computing, systems and network engineering, IT consulting, professional training and higher education.
+My professional experience also includes IT consulting, cloud infrastructure, systems and network administration, professional training, higher education, educational technology and academic programme coordination.
+
+
+## 🎓 Academic Background
+
+| Degree | Specialization | Institution | Period |
+|---|---|---|---|
+| PhD in Computer Science | Artificial Intelligence & Software Engineering | University of Luxembourg, Luxembourg | 2022–2026 |
+| Diplôme d'Ingénieur de Conception en Informatique | Software Analysis and Programming | École Supérieure d'Informatique (ESI), Université Nazi BONI, Burkina Faso | 2015–2018 |
+| Diplôme d'Ingénieur de Travaux en Informatique | Computer Networks and IT Maintenance | École Supérieure d'Informatique (ESI), Université Nazi BONI, Burkina Faso | 2011–2014 |
+
 
 ## 🔬 Research Interests
 
