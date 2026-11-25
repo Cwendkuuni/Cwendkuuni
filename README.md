@@ -1,7 +1,7 @@
 
 # Hi there, I'm Wendkûuni C. Ouédraogo 👋
 
-**PhD in Computer Science | Research Engineer | Applied AI & Software Engineering**
+****PhD in Computer Science | Computer Science Engineer | Research Engineer | Applied AI & Software Engineering****
 
 📍 Luxembourg
 
