@@ -5,10 +5,13 @@
 
 📍 Luxembourg
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/wendkuuni-c-ouedraogo-1157b82bb/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=huQNbqsAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7312-6273)
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat&logo=dblp&logoColor=white)](https://dblp.org/pid/358/9153.html)
 [![ORBilu](https://img.shields.io/badge/ORBilu-University_of_Luxembourg-blue)](https://orbilu.uni.lu/profile?uid=50056146)
+
 
 ## 👨‍💻 About Me
 
