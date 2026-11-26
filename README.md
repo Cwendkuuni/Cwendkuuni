@@ -12,6 +12,11 @@
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat&logo=dblp&logoColor=white)](https://dblp.org/pid/358/9153.html)
 [![ORBilu](https://img.shields.io/badge/ORBilu-University_of_Luxembourg-blue)](https://orbilu.uni.lu/profile?uid=50056146)
 
+![A journey into the virtual world — inspired by Code Lyoko](./Neon_Virtual_City_Explorer.png)
+<p align="center">
+  <em>Some childhood dreams never really fade. They simply evolve.</em>
+</p>
+
 
 
 ## 👨‍💻 About Me
