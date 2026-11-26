@@ -31,6 +31,16 @@ My work combines applied research, AI engineering, software development, experim
 My professional experience also includes IT consulting, cloud infrastructure, systems and network administration, professional training, higher education, educational technology and academic programme coordination.
 
 
+### 💻 Where It All Began
+
+My journey into computer science began with an unexpected source of inspiration: the animated series *Code Lyoko*.
+
+Its virtual worlds and computer systems sparked my curiosity and inspired me to pursue computer science. Years later, that passion has taken me from computer networks and software engineering to artificial intelligence, cybersecurity and scientific research.
+
+Some childhood dreams never really fade. They simply evolve.
+
+
+
 ## 🎓 Academic Background
 
 | Degree | Specialization | Institution | Period |
